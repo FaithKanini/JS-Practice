@@ -1,0 +1,4 @@
+Why will this code not work?
+function multiply(a, b){
+  a * b
+}
